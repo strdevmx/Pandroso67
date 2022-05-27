@@ -1,0 +1,523 @@
+0xFFFFFFFF
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:32 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:32 
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2) 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:35 
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.59 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:36 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:36 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:36 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:49 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:50 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:52 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:52 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:56 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:56 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:58 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:11:59 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:12:00 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:12:32 
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2) 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:15:55 
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2) 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:15:55 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:15:58 
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.59 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:15:59 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:16:00 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:16:00 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:16:10 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:16:10 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:16:12 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+FACEBOOK VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:16:13 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:19:51 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:19:51 
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2) 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:19:53 
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.59 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:19:54 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:19:54 
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.59 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:19:55 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:20:10 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:20:11 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:20:11 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:20:13 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:20:14 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+ANDROID VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:20:15 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:32 
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2) 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:32 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:40 
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.59 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:41 
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5) Plus Build/OPS28.85-17-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.59 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:41 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:42 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:54 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:54 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:57 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:57 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:58 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:36:59 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:00 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:00 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:01 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:01 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:04 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:04 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:04 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
+
+GNU/LINUX VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.66 
+Full-Date: 27-05-2022 02:37:08 
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
